@@ -1,1 +1,2 @@
 # 2048-Game
+2048 is a single-player sliding puzzle game where the objective is to combine numbered tiles on a 4x4 grid to reach the elusive tile with the number 2048. Players achieve this by merging identical tiles through sliding moves, with each successful combination doubling the tile's value. Strategic planning and efficient tile management are key to mastering the game and reaching the coveted 2048 tile.
